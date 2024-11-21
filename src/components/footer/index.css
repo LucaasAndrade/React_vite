@@ -1,0 +1,30 @@
+.footer_container{
+    color: white;
+    background-color: black;
+
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+
+    padding: 20px;
+}
+
+
+h2{
+    margin: 0px 20px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.nav_links{
+    padding: 20px;
+}
+
+
+
+.nav_links a {
+    margin-right: 10px;
+    font-family: 'Lucida Grande', Geneva, Verdana, sans-serif;
+    font-style: normal;
+}

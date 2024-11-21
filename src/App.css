@@ -2,3 +2,46 @@
     margin: 0px;
     box-sizing: border-box;
 }
+
+
+
+.main_container{
+    background-color: gray;
+    margin-top: -5px;
+
+    display: flex;
+    align-items: center;
+    justify-content:  space-evenly;
+
+    height: 600px;
+
+}
+
+.mc_text{
+    width: 400px;
+    height: auto;
+
+    margin-right: 40px;
+
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+
+.mc_img img{
+    border-radius: 50%;
+}
+
+#img1{
+    position: relative;
+    bottom: 9em;
+    left: 9em;
+}
+#img2{
+    /* position: absolute; */
+}#img3{
+    position: relative;
+    top: 8em;
+    right: 9em;
+
+}
