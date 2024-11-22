@@ -1,0 +1,35 @@
+
+
+.feedback_container{
+    height: 650px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.feedback_form{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+
+    padding: 10px;
+    margin: 10px;
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    background-color: rgba(255, 166, 0, 0.471);
+
+    width: 400px;
+    height: 300px;
+
+    border-radius: 15px;
+}
+
+.feedback_form button{
+    width: 100px;
+}
+
+.feedback_form div{
+    margin:20px;
+}
