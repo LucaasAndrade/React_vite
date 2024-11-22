@@ -3,6 +3,7 @@ import 'react';
 import './index.css';
 import logo from "../../assets/images/logo.png"
 
+
 export default function NavBar() {
 
 
@@ -10,12 +11,12 @@ export default function NavBar() {
         <>
             <div className='nav_container'>
                 <h2> FEITO PARA VOCÊ </h2>
-                <img src={logo} width="130px" height="120px" />
+                <a href='/'><img src={logo} width="130px" height="120px" /> </a>
 
                 <div className='nav_links'>
-                    <a> Sobre nós </a>
+                    <a href='/sobre'> Sobre nós </a>
                     <a> Feedback </a>
-                    <a> Contate-nos </a>
+                    <a href='/contato'> Contate-nos </a>
                 </div>
             </div>
         </>   
