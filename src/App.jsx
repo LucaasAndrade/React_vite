@@ -2,8 +2,12 @@ import NavBar from "./components/nav";
 import Footer from "./components/footer";
 import Card from "./components/card";
 import img1 from "./assets/images/img1.jpg";
-import barber from "./assets/images/barbearia.jpg";
 import './App.css';
+
+import barber from "./assets/images/interno.png";
+import BarbeariaOld from "./assets/images/BarbeariaOld.png";
+import barbearia from "./assets/images/graffite.png";
+
 
 function App() {
   
@@ -34,8 +38,8 @@ function App() {
         <section className='main_container'>
           <div className='mc_img'>
             <img src={barber} width="400px" id='img1'/>
-            <img src={barber} width="400px" id='img2'/>
-            <img src={barber} width="400px" id='img3'/>
+            <img src={barbearia} width="400px" id='img3'/>
+            <img src={BarbeariaOld} width="350px" id='img2'/>
           </div>
           <div className='mc_text'>
             <h3>Barbearia Moderna e Acolhedora</h3>
