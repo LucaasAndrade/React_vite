@@ -1,0 +1,25 @@
+{
+  "feedbacks": [
+    {
+      "id": "725b",
+      "nome": "Lucas Andrade",
+      "email": "lucasandrade@mail.com",
+      "avaliacao": "Muito bom! Atendimento excelente!",
+      "data": "2021-09-01"
+    },
+    {
+      "id": "726c",
+      "nome": "Pedro Lucas",
+      "email": "pedrolucas@mail.com",
+      "avaliacao": "Otimo atendimento, profissionais muito atenciosos.",
+      "data": "2021-09-02"
+    },
+    {
+      "id": "747d",
+      "nome": "Fernando Muller",
+      "email": "fernandomuller@mail.com",
+      "avaliacao": "Top! Top!",
+      "data": "2021-09-03"
+    }
+  ]
+}

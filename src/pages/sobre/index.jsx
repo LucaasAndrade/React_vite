@@ -46,7 +46,7 @@ export default function Sobre() {
 
                     <div className="limit">
 
-                        <img src={Barber} alt="" srcset="" width="400px" />
+                        <img src={Barber}  width="400px" />
 
                         <p>
                             Nossa cultura vai além da simples técnica: ela é construída sobre uma profunda valorização das relações humanas. Aqui, cada cliente é tratado como parte da nossa família. O seu conforto e satisfação são nossa prioridade, e queremos que você se sinta em casa toda vez que vier.
