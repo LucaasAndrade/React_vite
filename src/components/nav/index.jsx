@@ -14,7 +14,7 @@ export default function NavBar() {
 
                 <div className='nav_links'>
                     <a> Sobre nós </a>
-                    <a> Onde nos achar? </a>
+                    <a> Feedback </a>
                     <a> Contate-nos </a>
                 </div>
             </div>
