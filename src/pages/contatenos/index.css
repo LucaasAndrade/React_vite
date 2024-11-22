@@ -1,0 +1,11 @@
+
+
+
+.infos_container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+
+    height: 750px;
+}
